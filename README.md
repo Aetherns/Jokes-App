@@ -13,5 +13,4 @@ ASP.NET core creates modular code:
 
 .NET is a unified development platform which serves many different needs. Desktop, Cloud, Web, IoT, Machine Learning, Gaming and Mobile development. Visual Studio and Visual Studio Code are also part of .NET.
 
-Object Relation Mapper
- 
+ASP.NET Core uses an Object Relation Mapper which in highly scalable.
